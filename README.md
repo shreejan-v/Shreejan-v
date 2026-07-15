@@ -1,25 +1,28 @@
-# Hi there! 👋 I'm Shreejan V
+# Hi 👋 I'm Shreejan V
 
-🎓 Final-Year B.Tech Biotechnology (Computational Biology) student at SRM Institute of Science and Technology.
+🎓 Final-Year B.Tech Biotechnology (Computational Biology) student at SRM Institute of Science and Technology (SRMIST).
 
 🧬 Passionate about Bioinformatics, Computational Biology, Genomics, and Metagenomics.
+
+---
 
 ## 🔬 Current Focus
 
 - Genome-Resolved Metagenomics
 - NGS Data Analysis
-- Computational Biology
 - Python for Bioinformatics
 - Linux-based Bioinformatics Workflows
 
+---
+
 ## 🛠️ Technical Skills
 
-**Languages**
+### Programming
 - Python
 - R
 - Bash
 
-**Bioinformatics Tools**
+### Bioinformatics Tools
 - FastQC
 - fastp
 - MEGAHIT
@@ -29,22 +32,41 @@
 - GTDB-Tk
 - BLAST
 
-**Operating Systems**
+### Operating Systems
 - Linux (Ubuntu)
 - Windows
 
+---
+
 ## 📚 Certifications
 
-- UC San Diego – Bioinformatics Capstone (Coursera)
+- UC San Diego – Bioinformatics Capstone
 - IBM SkillsBuild – Python Programming
 - IBM SkillsBuild – R Programming
 - NGS & Multi-Omics Internship – Dr. Omics Labs
-- STEMONC R&D – Metagenomics Internship
-
-## 📫 Connect with me
-
-- LinkedIn: (Paste your LinkedIn here)
+- Metagenomics Internship – STEMONC R&D
 
 ---
 
-*"Building bioinformatics pipelines one project at a time."*
+## 🌱 Currently Learning
+
+- Git & GitHub
+- BWA
+- SAMtools
+- BCFtools
+- GATK
+- Nextflow
+
+---
+
+## 🎯 Career Goal
+
+To work as a Bioinformatics Analyst / NGS Data Analyst before pursuing a Master's in Bioinformatics.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *(Paste your LinkedIn profile link here)*
+
+⭐ *Turning biological data into meaningful discoveries through computation.*
