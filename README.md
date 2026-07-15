@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! 👋 I'm Shreejan V
 
 🎓 Final-Year B.Tech Biotechnology (Computational Biology) student at SRM Institute of Science and Technology.
