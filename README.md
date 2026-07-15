@@ -67,6 +67,6 @@ To work as a Bioinformatics Analyst / NGS Data Analyst before pursuing a Master'
 
 ## 📫 Connect with Me
 
-- LinkedIn: *(Paste your LinkedIn profile link here)*
+- LinkedIn: *www.linkedin.com/in/shreejan-v*
 
 ⭐ *Turning biological data into meaningful discoveries through computation.*
