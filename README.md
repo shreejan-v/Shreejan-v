@@ -1,16 +1,51 @@
 ## Hi there 👋
+# Hi there! 👋 I'm Shreejan V
 
-<!--
-**638119/638119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year B.Tech Biotechnology (Computational Biology) student at SRM Institute of Science and Technology.
 
-Here are some ideas to get you started:
+🧬 Passionate about Bioinformatics, Computational Biology, Genomics, and Metagenomics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Focus
+
+- Genome-Resolved Metagenomics
+- NGS Data Analysis
+- Computational Biology
+- Python for Bioinformatics
+- Linux-based Bioinformatics Workflows
+
+## 🛠️ Technical Skills
+
+**Languages**
+- Python
+- R
+- Bash
+
+**Bioinformatics Tools**
+- FastQC
+- fastp
+- MEGAHIT
+- QUAST
+- Kraken2
+- Bracken
+- GTDB-Tk
+- BLAST
+
+**Operating Systems**
+- Linux (Ubuntu)
+- Windows
+
+## 📚 Certifications
+
+- UC San Diego – Bioinformatics Capstone (Coursera)
+- IBM SkillsBuild – Python Programming
+- IBM SkillsBuild – R Programming
+- NGS & Multi-Omics Internship – Dr. Omics Labs
+- STEMONC R&D – Metagenomics Internship
+
+## 📫 Connect with me
+
+- LinkedIn: (Paste your LinkedIn here)
+
+---
+
+*"Building bioinformatics pipelines one project at a time."*
