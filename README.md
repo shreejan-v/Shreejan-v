@@ -21,6 +21,7 @@
 - Python
 - R
 - Bash
+- Java
 
 ### Bioinformatics Tools
 - FastQC
